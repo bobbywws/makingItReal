@@ -1,0 +1,162 @@
+body {
+	background-color: gray;
+	padding-left: 350px;
+	padding-right: 350px;
+}
+
+.header {
+	display: block;
+	background-color: #33e18f;
+	height: 300px;
+	width: 600 px;
+	position: relative;
+	margin: auto;
+	padding: 0px;
+}
+
+.title {
+	color: white;
+	margin: 0px;
+	padding-top: 250px;
+	padding-left: 15px;
+	font-size: 40px;
+	font-family: arial;
+}
+
+.seperatePage{
+	display: block;
+	background-color: green;
+	height: 10px;
+	width: 600 px;
+	position: relative;
+	margin: auto;
+	padding: 0px;
+}
+
+.navBar {
+	display: block;
+	background-color: #062818;
+	height: 40px;
+	width: 600 px;
+	position: relative;
+
+}
+
+.navList {
+	list-style-type: none;
+	color: white;
+	clear: left;
+	vertical-align: middle;
+	line-height: 40px;
+	clear: left;
+	margin: 0px;
+	float: right;
+
+}
+
+.navItem {
+	color: white;
+	display: inline;
+	font-size: 20px;
+	font-family: arial;
+	padding: 10px;
+}
+
+.mainPage {
+	display: block;
+	background-color: white;
+	height: 3500px;
+	width: 600 px;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+}
+
+h2 {
+	padding: 40px;
+	margin: 0px;
+}
+
+p {
+	padding-left: 75px;
+	padding-right: 75px;
+	padding-top: 10px;
+	font-style: arial;
+}
+
+h3 {
+	padding-top: 40px;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin: 0px;
+}
+
+.break {
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.devTable {
+	border-collapse: collapse;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.devTable tr td {
+	border: 1px solid black;
+	padding: 15px;
+}
+
+.headRow {
+	background-color: #858585;
+}
+
+.buttonData {
+	background-color: #1876bf;
+	border: none;
+	color: white;
+	font-size: 15px;
+}
+
+.grayBox {
+	background-color: #858585;
+	padding: 15px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+
+.nonsense {
+	font-style: times;
+}
+
+.placeHolder {
+	margin-left: 60px;
+}
+
+.input {
+	list-style: none;
+}
+
+.inputItem {
+	padding: 5px;
+	margin: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
